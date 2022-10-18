@@ -43,7 +43,7 @@
     "line-top-index": "0.2.0",
     "marked": "^0.3.6",
     "minimatch": "^3.0.3",
-    "mocha": "2.5.1",
+    "mocha": "10.1.0",
     "normalize-package-data": "^2.0.0",
     "nslog": "^3",
     "oniguruma": "6.1.0",
